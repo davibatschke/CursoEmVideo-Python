@@ -1,5 +1,3 @@
-# AULA 04 - Primeiros Comandos em Python
-
 # Maneiras de se usar o Print() em Python
 print('Ola mundo!') 
 print(7 + 4) 

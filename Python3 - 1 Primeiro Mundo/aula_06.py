@@ -1,5 +1,3 @@
-# AULA 06 - Tipos Primitivos e Saida de Dados
-
 # Tipos de Primitivos de dados do Python
 # INT (Inteiro) - 7, 4, 103509, 45, 69
 # FLOAT (Flutuante) - 7.0, 493.04009, 69.6969

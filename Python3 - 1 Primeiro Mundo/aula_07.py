@@ -1,5 +1,3 @@
-# AULA 07 - Operadores aritmeticos em Python
-
 # + (Adicao) - Serve para calculos de adicao
 # - (Subtracao) - Serve para calculos de subtracao
 # * (Multiplicacao) - Serve para calculos de muliplicacao

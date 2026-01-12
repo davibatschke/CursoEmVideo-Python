@@ -1,5 +1,3 @@
-# AULA 08 - Utilizando Modulos em Python
-
 # Modulos no Python sao pequenas ferramentas/bibliotecas extras que podemos usar
 # Podemos usar alguns modulos como: math, os, random, secrets, e muitas outras
 # Para importarmos usamos o seguinte comando: 
