@@ -1,10 +1,11 @@
-# Curso de Python3 - Por: Gustavo Guanabara
+# 🐍 Repositório de Estudos em Python
 
-Este repositorio esta sendo usado apenas para que eu possa salvar anotacoes, scripts, dentre outras coisas que eu achar relevante durante o meu estudo de Python. Gostaria tambem de divulgar o conteudo do Gustavo Guanabara e sua equipe por tras do Curso em Video. Caso alguém vendo isso se interesse, deixarei detalhes abaixo sobre.
+Este repositório é utilizado para armazenar anotações, scripts e outros conteúdos que considero relevantes durante meus estudos de Python. Aproveito também para divulgar o excelente trabalho do Gustavo Guanabara e de sua equipe no projeto Curso em Vídeo. Caso tenha interesse, deixarei abaixo o link para o site do Curso em Vídeo, além da documentação oficial.
 
-### Um pouco sobre:
-O curso gratuito “Python 3 – Mundo 1” é o ponto de partida perfeito para quem deseja entrar no universo da programação e começar uma jornada em uma das linguagens mais populares do mundo. Este curso foi pensado para ser acessível a qualquer pessoa, independentemente de conhecimento prévio em programação. A ideia principal é apresentar Python de forma prática e envolvente, facilitando o aprendizado mesmo para aqueles que nunca tiveram contato com a área de TI.
 
-> Plataforma do Curso em Video: https://www.cursoemvideo.com/
+### 📚 Créditos e Referências
 
-#
+Equipe do Curso em Vídeo -> https://www.cursoemvideo.com/  \
+Documentação oficial do Python -> https://docs.python.org/3/
+
+# 
