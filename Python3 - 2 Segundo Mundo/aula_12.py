@@ -1,10 +1,7 @@
-# Condicoes Aninhadas sao estruturas condicionais dentro de outras estruturas condicionais. Para exemplificar melhor, segue o exemplo abaixo:
-# Vamos montar um pequeno exemplo usando Nomes e Condicoes Aninhadas. 
+# Condicoes Aninhadas sao Estruturas dentro de outras Estruturas.
+# Temos tambem a Estrutura Condicional Composta, que eh o caso abaixo!
 
 nome = str(input('Digite o seu Nome: '))
-
-# Esta eh a Condicao Aninhada, ou seja, uma Estrutura Condicional dentro de outra!
-# Temos tambem a Estrutura Condicional Composta, mas nao eh esse o nosso caso agora.
 
 # IF - Significa "Se" usado para verificar uma condicao 
 if nome == 'Davi' or nome == 'Pedro':
